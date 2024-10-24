@@ -13,7 +13,9 @@ Course Textbook: "Fundamentals of Discrete Mathematics", Tsinghua University Pre
 
 
 Tool: Typora
+
 The correct display of some mathematical formulas requires enabling extended syntax
 
 markdown写作工具：Typora
+
 部分数学公式的正确显示需要启用扩展语法
