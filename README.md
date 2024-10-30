@@ -19,3 +19,7 @@ The correct display of some mathematical formulas requires enabling extended syn
 markdown写作工具：Typora
 
 部分数学公式的正确显示需要启用扩展语法
+
+---
+
+An表示第n次作业，A2没有使用markdown完成
